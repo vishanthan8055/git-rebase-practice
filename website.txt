@@ -1,2 +1,3 @@
 NAVBAR ADDED!
 Footer Added!
+Log in form added
